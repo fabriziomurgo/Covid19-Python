@@ -1,5 +1,6 @@
-🦠 Analisi Globale COVID-19 – Casi, Vaccinazioni e Ricoveri
+# Esercitazione finale Python
 
+🦠 Analisi Globale COVID-19 – Casi, Vaccinazioni e Ricoveri
 Nel contesto di un progetto di analisi sanitaria, ho sviluppato un report interattivo basato sul dataset ufficiale di Our World in Data, disponibile pubblicamente su GitHub. 
 L’obiettivo era fornire una panoramica chiara e comparativa sull’evoluzione della pandemia, con focus su casi confermati, campagne vaccinali e ricoveri ospedalieri.
 
